@@ -2,7 +2,7 @@ package maven_build;
 
 public class fact {
 	public static void main(String[] args)
-	{	final int NUM_FACTS = 10;
+	{	final int NUM_FACTS = 15;
 		for(int i = 0; i < NUM_FACTS; i++)
 			System.out.println( i + "! is " + factorial(i));
 	}
