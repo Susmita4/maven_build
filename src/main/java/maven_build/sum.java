@@ -17,7 +17,7 @@ public class sum {
 	//method that calculates the sum  
 	public static int sum(int a, int b)  
 	{  
-	int sum = a + b;  
+	int sum = a - b;  
 	return sum;  
 	}  
 }
